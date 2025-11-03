@@ -96,3 +96,5 @@ http://localhost:8501
 Al abrirlo en el navegador, se podrá visualizar la aplicación de forma interactiva.
 
 ## Visualizaciones con explicaciones de los resultados
+
+<img width="996" height="559" alt="imagen" src="https://github.com/user-attachments/assets/5a121e0d-735c-40d8-beb6-761e42b46490" />
