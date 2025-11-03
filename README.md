@@ -96,5 +96,39 @@ http://localhost:8501
 Al abrirlo en el navegador, se podrá visualizar la aplicación de forma interactiva.
 
 ## Visualizaciones con explicaciones de los resultados
+Una vez ya desplegado el Dashboard vamos a tener las siguientes imagenes:
+**Distribución total de muertes por departamento (2019)**
+El gráfico del mapa de Colombia representa un mapa de calor donde se marca más los departamentos con una tasa de mortalidad más alta, vemos que el que más resalta es Bogotá con 5.280 muertes solo en el añ 2019, seguido de Antioquia con 1.504 y Valle del Cauca con 1.310. Tiene bastante sentido que se marquen más estas zonas ya que son estos departamentos donde quedan las ciudades principales de Colombia y donde se va a acumular más personas.
 
 <img width="996" height="559" alt="imagen" src="https://github.com/user-attachments/assets/5a121e0d-735c-40d8-beb6-761e42b46490" />
+
+**Total de muertes por mes**
+En este segundo gráfico vemos el agregado del total de muertes por mes para todo el 2019 en Colombia. Curiosamente el mes con más muertes fue agosto con 2.784, me parece curioso ya que pensaba que los meses con más muertes podían ser diciembre o enero ya que es los meses donde la gente más viaja y puede haber una mayor tasa de accidentes. Aunque en el gráfico si vemos que aumenta en diciembre con 784, sin embargo no supera el mes de agosto.
+<img width="1005" height="449" alt="imagen" src="https://github.com/user-attachments/assets/619e186e-bde1-4120-8b59-e067993593ab" />
+
+**Los 5 departamentos con más muertes por homicidio**
+En los municipios con más muertes por homicidio tenemos en primer lugar a Bogotá con 87 casos, seguido de Cali con 64, y vemos que los últimos 3 municipios, Cucuta, Tulua y Bucaramanga disminuyen bastante respecto a Cali y Bogotá, esto tiene sentido ya que Bogotá es la capital, tiene una densidad poblacional fuerte y por eso encabeza este top, y por otro lado Cali es una ciudad principal también, y se ha visto en distintos medios de comunicación que es una de las ciudades más peligrosas de Colombia. 
+<img width="977" height="391" alt="imagen" src="https://github.com/user-attachments/assets/30e02a4d-edb8-405e-8565-a722b9b4ab77" />
+
+**Los 10 municipios con menor mortalidad**
+Los 10 municipios con menor mortalidad son: Yopal, Riosucio, Puerto Asis, Florida, Prado, Fonseca, Pitalito, Garzón, Espina, Gigante. Con solo 1 muerte registrada en todo el 2019, de esta gráfica me parece curioso que aparezca Yopal ya que es la capital de Casanare y al ser capital se puede concentrar mayor cantidad de personas y por ende tener una mayor tasa de mortalidad. Los demás municipios tiene sentido su comportamiento ya que son municipios pequeños y van a tener menos población. 
+<img width="988" height="340" alt="imagen" src="https://github.com/user-attachments/assets/d6e8f5be-334c-420b-86fe-2271b7451a74" />
+
+**10 principales causa de muerte**
+
+Si revisamos las 10 principales causas de muerte de acuerdo a su código de dos cifras, tenemos que mayoritariamente es natural, ya que en este tipo se clasifican varios tipos de muerte como por ejemplo por enfermedad y se especifica el tipo de enfermedad dentro de la base, por eso vemos que abarca casi toda la tabla. Adicional tenemos también la muerte por homicidio la cuál tiene un total de 190 casos. 
+<img width="755" height="404" alt="imagen" src="https://github.com/user-attachments/assets/6f8bd7db-9b05-4231-ae5e-cf4760a0df3e" />
+
+**Comparación de muerte de sexo**
+En la comparación de muerte por sexo y departamento, en Bogotá está casi a un 50-50 la mortalidad por género, en hombres tenemos 2.679 casos y en mujeres 2.599, en Antioquia vemos mayor cantidad de muertes en hombres sin embargo no es una diferencia fuerte, tenemos 867 casos de hombres y 637 de mujeres. En Valle del cauca también tenemos más casos en hombres pero nuevamente no es una diferencia fuerte respecto a las mujeres, tenemos 727 casos de hombres y 583 de mujeres. Estos son los departamentos que más resaltan ya que el resto de departamentos tiene un valor muy bajo y no se aprecia correctamente la comparación. 
+
+
+<img width="843" height="559" alt="imagen" src="https://github.com/user-attachments/assets/6bd7684c-b63b-4dc0-ae90-abbb2ed6269b" />
+
+**Distribución de mortalidad por grupo etario**
+Para este grafico se crearon agrupaciones de acuerdo a la edad, y tenemos que el grupo con mayor mortalidad es vejez(60-84 años) lo cuál tiene mucho sentido, el siguiente es longevidad (más de 85) lo cuál también se entiende que por ser personas con edad más avanzada tiene mayor frecuencia, los grupos con menor frecuencia son los infantiles de 1 hasta los 14 años, aunque la neonatal si tiene más frecuencia que el resto de grupos infantiles, esto tiene sentido ya que son niños recien nacidos, pueden llegar a ser más débiles o haber desarrollado menos defensas. En si el gráfico es bastante lógico ya que va aumentando la frecuencia a medida que avanzan los grupos de edad.
+
+<img width="841" height="557" alt="imagen" src="https://github.com/user-attachments/assets/6e744186-4e3c-4ce8-8164-c086c3a71d09" />
+
+
+
